@@ -57,16 +57,13 @@
     }
   },
   "eslintConfig": {
-    "extends": [
-      "xo",
-      "prettier"
-    ],
+    "extends": [],
+    "parserOptions": {
+      "ecmaVersion": 2019
+    },
     "env": {
       "jest": true,
       "node": true
-    },
-    "rules": {
-      "prettier/prettier": "error"
     },
     "plugins": [
       "prettier"
