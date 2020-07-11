@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Joe Fehrman",
+      "authorEmail": "joseph.fehrman@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
